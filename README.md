@@ -14,7 +14,8 @@ The system listens to the user’s voice, converts speech into text, analyzes it
 This helps users gradually improve their speaking skills through practice.
 -------------------------------------------------------------------------------------------------------------------------
 
-🤖 Ollama AI Engine Overview
+🤖 Ollama AI Engine Overview:
+
 This project uses Ollama as the local AI engine to generate intelligent feedback for user speech. Ollama allows developers to run large language models (LLMs) locally on their machine without relying on external cloud APIs.
 By using Ollama, the AI Communication Coach can process user input and generate meaningful communication feedback directly on the local system. This approach improves privacy, reduces dependency on internet connectivity, and allows faster experimentation with different AI models.
 In this project, the AI feedback is generated using the TinyLlama model running through Ollama.
