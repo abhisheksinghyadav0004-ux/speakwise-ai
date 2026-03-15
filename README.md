@@ -31,7 +31,7 @@ The workflow of Ollama integration in the application:
 5 Ollama processes the input using the TinyLlama model.
 6 AI-generated feedback is returned to the frontend.
 
-🧠 Why Ollama is Used
+🧠 Why Ollama is Used ?
 
 Ollama provides several advantages for AI-based applications:
 
