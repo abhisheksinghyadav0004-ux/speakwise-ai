@@ -1,7 +1,8 @@
 # speakwise-ai
 AI Communication Coach is a web-based application that helps users improve their speaking and communication skills using AI. It converts speech to text, analyzes grammar, fluency, and confidence, and provides instant feedback with scores and suggestions to help users practice and enhance their communication abilities effectively.
 
-🚀 Project Overview
+🚀 Project Overview :
+
 Communication skills are one of the most important abilities in modern professional environments. Many people struggle with fluency, grammar mistakes, hesitation, and lack of confidence while speaking.
 AI Communication Coach is designed to solve this problem by providing a simple platform where users can practice speaking and instantly receive AI-powered feedback.
 The system listens to the user’s voice, converts speech into text, analyzes it, and provides feedback on:
