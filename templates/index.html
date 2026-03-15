@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>AI Communication Coach</title>
+
+<link rel="stylesheet" href="/static/style.css">
+
+</head>
+
+<body>
+
+<div class="app">
+
+<header>
+
+<h1>AI Communication Coach</h1>
+<p>Practice speaking and receive AI powered feedback instantly</p>
+
+</header>
+
+<div class="dashboard">
+
+<button id="startBtn" class="start-btn">🎤 Start Speaking</button>
+
+<div class="mic-animation" id="micAnimation">
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+<div></div>
+</div>
+
+<!-- Speech Card -->
+
+<div class="card">
+
+<h3>🗣 Your Speech</h3>
+
+<p id="speechText">
+Waiting for speech...
+</p>
+
+</div>
+
+<!-- AI Feedback -->
+
+<div class="card">
+
+<h3>🤖 AI Coach Feedback</h3>
+
+<p id="feedback">
+AI response will appear here...
+</p>
+
+</div>
+
+<!-- Scores -->
+
+<div class="score-container">
+
+<div class="score-card">
+
+<h4>Fluency</h4>
+<span id="fluency">-</span>
+<p>Speaking smoothness</p>
+
+</div>
+
+<div class="score-card">
+
+<h4>Grammar</h4>
+<span id="grammarScore">-</span>
+<p>Sentence accuracy</p>
+
+</div>
+
+<div class="score-card">
+
+<h4>Confidence</h4>
+<span id="confidence">-</span>
+<p>Speaking confidence</p>
+
+</div>
+
+</div>
+
+</div>
+
+<footer>
+
+<p>AI Communication Coach • Demo Project</p>
+<br>
+Designed and developed by: Abhishek Yadav
+
+</footer>
+
+</div>
+
+<script src="/static/script.js"></script>
+
+</body>
+</html>
